@@ -7,3 +7,5 @@
 
 # For building with minimal manifest
 export ALLOW_MISSING_DEPENDENCIES=true
+export FOX_SETTINGS_ROOT_DIRECTORY="/cache"
+export FOX_MISCELLANEOUS_ROOT_DIRECTORY="/cache"
